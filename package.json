@@ -1,0 +1,21 @@
+{
+  "name": "ran-gen-api",
+  "version": "1.0.0",
+  "description": "this is my first node.js application",
+  "main": "app.js",
+  "scripts": {
+    "build": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "random",
+    "number",
+    "generator"
+  ],
+  "author": "enter your name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
